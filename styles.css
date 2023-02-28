@@ -1,0 +1,31 @@
+#title {
+    text-align: center;
+    font-weight: bold;
+}
+
+#main-container {
+    background-color: rgb(215, 215, 215);
+    margin-top: 100px;
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 25px;
+    width: 500px;
+}
+
+#side-container {
+    width: 40%;
+}
+
+body {
+    background-image: url('bg.jpg');
+    background-size: 100%;
+}
+
+.col {
+    padding: 0;
+    height: 43px;
+}
+
+.btn {
+    width: 90%;
+}
